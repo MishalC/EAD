@@ -1,0 +1,44 @@
+This might be a dummy text
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+
+This might be a dummy text
+
+This might be a dummy text
+
+This might be a dummy text
+
+something.
+
+
+EOF
+
+this is a new line new content or something okay
+now click add it and commit it
+
+EOF-2
